@@ -1,11 +1,18 @@
 ## Welcome 👋
 <a href="https://www.opclabs.com"><img align="right" src="Image-AllProducts-ConnectivitySoftware-202510-250px.png"></a>
 
-Connectivity Software products:
+The Connectivity Software is a suite of software development components, tools and applications. It works on .NET, COM and Python platforms, and consists of following products:
 * [QuickOPC](https://github.com/OPCLabs/QuickOPC) (OPC client and subscriber development)
 * Excel Connector ([OPC and Excel integration](https://www.opclabs.com/products/excel-connector))
 * [OPC Wizard](https://github.com/OPCLabs/OPCWizard) (OPC server toolkit)
 * [Rapid Toolkit for Sparkplug](https://github.com/OPCLabs/EasySparkplug) (Sparkplug development)
+
+Connectivity Software products are commercially licensed. Some of the [tools are free](https://kb.opclabs.com/Tool_Downloads), 
+and all functionality is available in free trial mode, which provides valid data for 30 minutes; after that period, 
+the application needs to be re-started, and so on. You must also comply with licensing terms for 3rd-party material 
+redistributed with Connectivity Software. 
+
+[User's Guide and Reference](https://www.opclabs.com/documentation) | [Send Feedback](mailto:DevDocs@opclabs.com) | Resources: [Knowledge Base](https://kb.opclabs.com)
 
 Examples on GitHub: 
 [C#](https://github.com/OPCLabs/Examples-ConnectivityStudio-CSharp) |
