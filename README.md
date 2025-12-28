@@ -1,5 +1,5 @@
 ## Welcome 👋
-<a href="https://www.opclabs.com"><img align="right" src="Image-AllProducts-ConnectivitySoftware-202510-250px.png"></a>
+<a href="https://www.opclabs.com"><img align="right" src=".github/images/Image-AllProducts-ConnectivitySoftware-202510-250px.png"></a>
 
 The Connectivity Software is a suite of software development components, tools and applications. It works on .NET, COM and Python platforms, and consists of following products:
 * **[QuickOPC](https://github.com/OPCLabs/QuickOPC) (OPC client and subscriber development)**
