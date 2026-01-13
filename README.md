@@ -29,6 +29,8 @@ Examples on GitHub:
 
 Examples in more languages and tools, such as C++, Free Pascal (Lazarus), Perl, JScript, PowerScript (PowerBasic), REALBasic (Xojo), Visual FoxPro, or XBase++ are installed with the [Setup program](https:///www.opclabs.com/download).
 
+Follow us on [X (Twitter)](https://x.com/opclabs) | Follow us on [LinkedIn](https://linkedin.com/company/opc-labs)
+
 <!--
 **OPCLabs/OPCLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
