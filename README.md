@@ -15,7 +15,7 @@ redistributed with Connectivity Software.
 [User's Guide and Reference](https://www.opclabs.com/documentation) | 
 [Send Feedback](mailto:DevDocs@opclabs.com) | 
 Resources: [Knowledge Base](https://kb.opclabs.com), [Product Downloads](https://www.opclabs.com/download) |
-Technical support: [Online Forums](https://www.opclabs.com/forum/index), [FAQ](https://www.opclabs.com/support/frequently-asked-questions)
+Technical support: [Online Forums](https://forum.opclabs.com/forum/index), [FAQ](https://www.opclabs.com/support/frequently-asked-questions)
 
 Examples on GitHub: 
 [C#](https://github.com/OPCLabs/Examples-ConnectivityStudio-CSharp) |
